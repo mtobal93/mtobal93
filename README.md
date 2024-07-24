@@ -46,9 +46,10 @@ My interests include:
 
 
 </br>
+</br>
 
 <div align="center">
-	<h3>Connect With Me 🤝🏼</h3>
+	<h3>Connect With Me</h3>
 </div>
 
 <div align="center"> 
@@ -59,6 +60,6 @@ My interests include:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://manueltobal.com/">
-     <img src="https://img.shields.io/badge/Portfolio-f95757?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-f95757?style=for-the-badge&logo=googlechrome&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
