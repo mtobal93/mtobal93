@@ -56,7 +56,7 @@ My interests include:
 <div align="center">
 
 ```
-I'm always open to collaborating, innovative ideas, learning, and a cup of coffe.
+I'm always open to collaborating, innovative ideas, learning, and a cup of coffee.
 
 Connect with me:
 ```
@@ -74,4 +74,15 @@ Connect with me:
   <a href="https://manueltobal.com/">
      <img src="https://img.shields.io/badge/Portfolio-f95757?style=for-the-badge&logo=googlechrome&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+</div>
+
+
+</br>
+</br>
+
+
+<div align="center">
+
+<p>P.S. I Can Do This</p>
+🖖🏼
 </div>
