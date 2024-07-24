@@ -50,8 +50,19 @@ My interests include:
 </br>
 
 <div align="center">
-	<h3>Connect With Me</h3>
+	<h3>Connect</h3>
 </div>
+
+<div align="center">
+
+```
+I'm always open to collaborating, innovative ideas, learning, and a cup of coffe.
+
+Connect with me:
+```
+
+</div>
+
 
 <div align="center"> 
   <a href="mailto:contact@manueltobal.com">
