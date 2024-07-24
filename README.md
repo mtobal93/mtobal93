@@ -42,6 +42,7 @@ My interests include:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,nextjs,tailwind,vite,express,nodejs" />
     <img src="https://skillicons.dev/icons?i=npm,python,flask,sequelize,sqlite,postgres,aws,git,github,sentry,postman,vscode" /><br>
+    <img src="https://skillicons.dev/icons?i=apple,windows" />
 </div>
 
 
